@@ -1,0 +1,2481 @@
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.1
+Fair Lending Laws and Regulations
+Introduction
+This overview provides a basic and abbreviated discussion of
+federal fair lending laws and regulations. It is adapted from
+the Interagency Policy Statement on Fair Lending issued in
+March 1994.
+Lending Discrimination Statutes and Regulations
+The Equal Credit Opportunity Act (ECOA) prohibits
+discrimination in any aspect of a credit transaction. It
+applies to any extension of credit, including extensions of
+credit to small businesses, corporations, partnerships, and
+trusts.
+The ECOA prohibits discrimination based on:
+• Race or color;
+• Religion;
+• National origin;
+• Sex;
+• Marital status;
+• Age (provided the applicant has the capacity to contract);
+• The applicant’s receipt of income derived from any
+public assistance program; or
+• The applicant’s exercise, in good faith, of any right
+under the Consumer Credit Protection Act.
+The Consumer Financial Protection Bureau’s Regulation B,
+found at 12 CFR part 1002, implements the ECOA.
+Regulation B describes lending acts and practices that are
+specifically prohibited, permitted, or required. Official staff
+interpretations of the regulation are found in Supplement I to
+12 CFR part 1002.
+The Dodd–Frank Wall Street Reform and Consumer
+Protection Act of 2010 further amended the ECOA and
+covers:
+• Data collection for loans to minority-owned and
+women-owned businesses (awaiting final regulation);
+• Legal action statute of limitations for ECOA
+violations is extended to five years (effective July 21, 2010);
+and
+• A disclosure of the consumer’s ability to receive a
+copy of any appraisal(s) and valuation(s) prepared in
+connection with first-lien loans secured by a dwelling is to be
+provided to applicants within 3 business days of receiving the
+application (effective January 18, 2014).
+NOTE: Further information regarding the technical
+requirements of fair lending are incorporated into the
+sections ECOA V 7.1 and FCRA VIII 6.1 of this manual.
+The Fair Housing Act (FHAct) prohibits discrimination in all
+aspects of “residential real-estate related transactions,”
+including but not limited to:
+• Making loans to buy, build, repair, or improve a
+dwelling;
+• Purchasing real estate loans;
+• Selling, brokering, or appraising residential real estate; or
+• Selling or renting a dwelling.
+The FHAct prohibits discrimination based on:
+• Race or color;
+• National origin;
+• Religion;
+• Sex;
+• Familial status (defined as children under the age of 18
+living with a parent or legal custodian, pregnant women,
+and people securing custody of children under 18); or
+• Handicap.
+The Department of Housing and Urban Development’s
+(HUD) regulations implementing the FHAct are found at 24
+CFR Part 100. Because both the FHAct and the ECOA
+apply to mortgage lending, lenders may not discriminate in
+mortgage lending based on any of the prohibited factors in
+either list.
+Under the ECOA, it is unlawful for a lender to discriminate
+on a prohibited basis in any aspect of a credit transaction,
+and under both the ECOA and the FHAct, it is unlawful for a
+lender to discriminate on a prohibited basis in a residential
+real-estate-related transaction. Under one or both of these
+laws, a lender may not, because of a prohibited factor:
+• Fail to provide information or services or provide
+different information or services regarding any aspect of
+the lending process, including credit availability,
+application procedures, or lending standards.
+• Discourage or selectively encourage applicants
+with respect to inquiries about or applicationsfor
+credit.
+• Refuse to extend credit or use different standards
+in determining whether to extend credit.
+• Vary the terms of credit offered, including the
+amount, interest rate, duration, or type of loan.
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.2 FDIC Consumer Compliance Examination Manual – March 2021
+• Use different standards to evaluate collateral.
+• Treat a borrower differently in servicing a loan
+or invoking default remedies.
+• Use different standards for pooling or packaging a loan
+in the secondary market.
+A lender may not express, orally or in writing, a
+preference based on prohibited factors or indicate that it
+will treat applicants differently on a prohibited basis. A
+violation may still exist even if a lender treated applicants
+equally.
+A lender may not discriminate on a prohibited basis because
+of the characteristics of
+• An applicant, prospective applicant, or borrower.
+• A person associated with an applicant, prospective
+applicant, or borrower (for example, a co-applicant,
+spouse, business partner, or live-in aide).
+• The present or prospective occupants of either the
+property to be financed or the characteristics of the
+neighborhood or other area where property to be financed
+is located.
+Finally, the FHAct requires lenders to make reasonable
+accommodationsfor a person with disabilities when such
+accommodations are necessary to afford the person an equal
+opportunity to apply for credit.
+Types of Lending Discrimination
+The courts have recognized three methods of proof of lending
+discrimination under the ECOA and the FHAct:
+• Overt evidence of disparate treatment;
+• Comparative evidence of disparate treatment; and
+• Evidence of disparate impact.
+Disparate Treatment
+The existence of illegal disparate treatment may be established
+either by statements revealing that a lender explicitly
+considered prohibited factors (overt evidence) or by
+differences in treatment that are not fully explained by
+legitimate nondiscriminatory factors (comparative evidence).
+Overt Evidence of Disparate Treatment. There is overt
+evidence of discrimination when a lender openly discriminates
+on a prohibited basis.
+Example: A lender offered a credit card with a limit of up to
+$750 for applicants aged 21-30 and $1500 for applicants over
+30. This policy violated the ECOA’s prohibition on
+discrimination based on age.
+There is overt evidence of discrimination even when a lender
+expresses — but does not act on — a discriminatory
+preference:
+Example: A lending officer told a customer, “We do not like
+to make home mortgages to Native Americans, but the law
+says we cannot discriminate and we have to comply with the
+law.” This statement violated the FHAct’s prohibition on
+statements expressing a discriminatory preference as well as
+Section 1002.4(b) of Regulation B, which prohibits
+discouraging applicants on a prohibited basis.
+Comparative Evidence of Disparate Treatment. Disparate
+treatment occurs when a lender treats a credit applicant
+differently based on one of the prohibited bases. It does
+not require any showing that the treatment was motivated
+by prejudice or a conscious intention to discriminate
+against a person beyond the difference in treatment itself.
+Disparate treatment may more likely occur in the treatment of
+applicants who are neither clearly well-qualified nor clearly
+unqualified. Discrimination may more readily affect applicants
+in this middle group for two reasons. First, if the applications
+are “close cases,” there is more room and need for lender
+discretion. Second, whether or not an applicant qualifies may
+depend on the level of assistance the lender provides the
+applicant in completing an application. The lender may, for
+example, propose solutions to credit or other problems
+regarding an application, identify compensating factors, and
+provide encouragement to the applicant. Lenders are under no
+obligation to provide such assistance, but to the extent that they
+do, the assistance must be provided in a nondiscriminatory
+way.
+Example: A non-minority couple applied for an automobile
+loan. The lender found adverse information in the couple’s
+credit report. The lender discussed the credit report with
+them and determined that the adverse information, a
+judgment against the couple, was incorrect because the
+judgment had been vacated. The non-minority couple was
+granted their loan. A minority couple applied for a similar
+loan with the same lender. Upon discovering adverse
+information in the minority couple’s credit report, the lender
+denied the loan application on the basis of the adverse
+information without giving the couple an opportunity to
+discuss the report.
+The foregoing is an example of disparate treatment of
+similarly situated applicants, apparently based on a
+prohibited factor, in the amount of assistance and
+information the lender provided.
+If a lender has apparently treated similar applicants
+differently on the basis of a prohibited factor, it must
+provide an explanation for the difference in treatment. If the
+lender’s explanation is found to be not credible, the agency
+may find that the lender discriminated.
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.3
+Redlining is a form of illegal disparate treatment in which
+a lender provides unequal access to credit, or unequal
+terms of credit, because of the race, color, national origin,
+or other prohibited characteristic(s) of the residents of the
+area in which the credit seeker resides or will reside or in
+which the residential property to be mortgaged is located.
+Redlining may violate both the FHAct and the ECOA.
+Disparate Impact
+When a lender applies a racially or otherwise neutral policy
+or practice equally to all credit applicants, but the policy or
+practice disproportionately excludes or burdens certain
+persons on a prohibited basis, the policy or practice is
+described as having a “disparate impact.”
+Example: A lender’s policy is not to extend loans for single
+family residences for less than $60,000.00. This policy has
+been in effect for ten years. This minimum loan amount
+policy is shown to disproportionately exclude potential
+minority applicants from consideration because of their
+income levels or the value of the houses in the areas in
+which they live.
+The fact that a policy or practice creates a disparity on a
+prohibited basis is not alone proof of a violation. When an
+Agency finds that a lender’s policy or practice has a disparate
+impact; the next step is to seek to determine whether the policy
+or practice is justified by “business necessity.” The
+justification must be manifest and may not be hypothetical or
+speculative.
+Factors that may be relevant to the justification could include
+cost and profitability. Even if a policy or practice that has a
+disparate impact on a prohibited basis can be justified by
+business necessity, it still may be found to be in violation if an
+alternative policy or practice could serve the same purpose
+with less discriminatory effect. Finally, evidence of
+discriminatory intent is not necessary to establish that a
+lender’s adoption or implementation of a policy or practice that
+has a disparate impact is in violation of the FHAct or ECOA.
+These procedures do not call for examiners to plan
+examinations to identify or focus on potential disparate impact
+issues. The guidance in this Introduction is intended to help
+examiners recognize fair lending issues that may have a
+potential disparate impact. Guidance in the Appendix to the
+Interagency Fair Lending Examination Procedures provides
+details on how to obtain relevant information regarding such
+situations along with methods of evaluation, as appropriate.
+General Guidelines
+These procedures are intended to be a basic and flexible
+framework to be used in the majority of fair lending
+examinations conducted by the FFIEC agencies. They are also
+intended to guide examiner judgment, not to supplant it. The
+procedures can be augmented by each agency as necessary to
+ensure their effective implementation. While these procedures
+apply to many examinations, agencies routinely use statistical
+analyses or other specialized techniques in fair lending
+examinations to assist in evaluating whether a prohibited basis
+was a factor in an institution’s credit decisions. Examiners
+should follow the procedures provided by their respective
+agencies in these cases.
+For a number of aspects of lending — for example, credit
+scoring and loan pricing — the “state of the art” is more likely
+to be advanced if the agencies have some latitude to
+incorporate promising innovations. These interagency
+procedures provide for that latitude.
+Any references in these procedures to options, judgment, etc.,
+of “examiners” means discretion within the limits provided by
+that examiner’s agency. An examiner should use these
+procedures in conjunction with his, or her, own agency’s
+priorities, examination philosophy, and detailed guidance for
+implementing these procedures. These procedures should not
+be interpreted as providing the examiner greater latitude than
+his, or her, own agency would. For example, if an agency’s
+policy is to review compliance management systems in all of
+its institutions, an examiner for that agency must conduct such
+a review rather than interpret Part II of these interagency
+procedures as leaving the review to the examiner’s option.
+The procedures emphasize racial and national origin
+discrimination in residential transactions, but the key
+principles are applicable to other prohibited bases and
+to nonresidential transactions.
+Finally, these procedures focus on analyzing
+institution compliance with the broad,
+nondiscrimination requirements of the ECOA and the
+FHAct. They do not address such explicit or
+technical compliance provisions as the signature rules
+or adverse action notice requirements in Sections
+1002.7 and 1002.9, respectively, of Regulation B.
+Part I — Examination Scope Guidelines Background
+Consistent with the Federal Financial Institutions
+Examination Council Interagency Fair Lending Examination
+Procedures, FDIC examiners evaluate fair lending risk
+during the scoping process by completing three general
+steps:
+1. Examiners develop an institutional overview to assess an
+institution’s inherent fair lending risk. As part of this
+process, examiners become familiar with an institution’s
+structure and management, supervisory history, loan
+portfolio, and credit and market operations. Once examiners
+understand a financial institution’s lending operations they
+can identify the level of inherent risk. Inherent risk for fair
+lending is broad-based and would impact a range of products
+if no controls or other mitigating factors were in place to
+control the risk. Inherent risk arises from the general 
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.4 FDIC Consumer Compliance Examination Manual – March 2021
+conditions or the environment in which the institution
+operates. The risk could be present based on an institution’s
+structure, supervisory history, the composition of the loan
+portfolio, and the credit and market operations
+2. If an examiner believes that an institution has more than
+minimal inherent fair lending risk, the examiner should then
+identify the product(s) or product group(s) to review. The
+products or product groups selected may differ based on the
+type of discrimination. For example, for purposes of pricing,
+an examiner may select HMDA loans for further review,
+while for underwriting, the examiner may select consumer
+loans. Examiners are not expected to review all products for
+discrimination risk if there is more than minimal inherent
+risk. Rather, examiners should use their judgment and
+consider the following when deciding which loan products
+warrant further review. Examiners would then identify any
+discrimination risk factors and assess an institution’s
+compliance management system (CMS) for fair lending.
+Understanding the strength of an institution’s CMS is
+necessary to properly assess whether an institution has
+sufficiently mitigated applicable discrimination risk factors.
+If there is minimal inherent risk, no additional analysis is
+necessary and the fair lending review can conclude.
+3. For those discrimination risk factors that have not been
+fully mitigated, examiners compile a list of potential focal
+points and identify which should be pursued as a focal point.
+The FDIC has developed the Fair Lending Scope and
+Conclusions Memorandum (FLSC) to implement a standard
+nationwide format for documenting the scope and
+conclusions of fair lending reviews. FLSC has been adopted
+as a means of focusing the examiner’s attention to the areas
+that pose the greatest unmanaged fair lending risk to the
+institution. It incorporates the Interagency Fair Lending
+Examination Procedures1 and assists in documenting the
+types of fair lending risks that are present; the controls that
+management has put in place to manage the risk; the
+effectiveness of these controls; why the particular focal
+point(s) are chosen; the level of review conducted; and the
+results of any additional analysis that was conducted. The
+FLSC is included in section IV-3.1 of this manual.
+The scope of an examination encompasses the loan
+product(s), market(s), decision center(s), time frame, and
+prohibited basis and control group(s) to be analyzed during
+the examination. These procedures refer to each potential
+combination of those elements as a “focal point.” Setting the
+scope of an examination involves, first, identifying all of the
+potential focal points that appear worthwhile to examine.
+Then, from among those, examiners select the Focal
+Point(s) that will form the scope of the examination, based
+on risk factors, priorities established in these procedures or
+ 1 The interagency examination procedures are presented in their entirety in Part
+III of this section of the manual.
+by their respective agencies, the record from past
+examinations, and other relevant guidance. This phase
+includes obtaining an overview of an institution’s
+compliance management system as it relates to fair lending.
+When selecting focal points for review, examiners may
+determine that the institution has performed “self-tests” or
+“self-evaluations” related to specific lending products. The
+difference between “self-tests” and “self-evaluations” is
+discussed in the Using Self-Tests and Self-Evaluations to
+Streamline the Examination section of the Appendix.
+Institutions must share all information regarding “selfevaluations” and certain limited information related to “selftests.” Institutions may choose to voluntarily disclose
+additional information about “self-tests.” Examiners should
+make sure that institutions understand that voluntarily
+sharing the results of self-tests will result in a loss of
+confidential status of these tests. Information from “selfevaluations” or “self-tests” may allow the scoping to be
+streamlined. Refer to Using Self-Tests and Self-Evaluations
+to Streamline the Examination in the Appendix for
+additional details.
+Scoping may disclose the existence of circumstances —
+such as the use of credit scoring or a large volume of
+residential lending — which, under an agency’s policy, call
+for the use of regression analysis or other statistical methods
+of identifying potential discrimination with respect to one or
+more loan products. Where that is the case, the agency’s
+specialized procedures should be employed for such loan
+products rather than the procedures set forth below.
+Setting the intensity of an examination means determining the
+breadth and depth of the analysis that will be conducted on the
+selected loan product(s). This process entails a more involved
+analysis of the institution’s compliance risk management
+processes, particularly as it relates to selected products, to
+reach an informed decision regarding how large a sample of
+files to review in any transactional analyses performed and
+whether certain aspects of the credit process deserve
+heightened scrutiny.
+Part I of these procedures provides guidance on establishing
+the scope of the examination. Part II (Compliance
+Management Review) provides guidance on determining the
+intensity of the examination. There is naturally some
+interdependence between these two phases. Ultimately the
+scope and intensity of the examination will determine the
+record of performance that serves as the foundation for
+agency conclusions about institutional compliance with fair
+lending obligations. The examiner should employ these
+procedures to arrive at a well-reasoned and practical
+conclusion about how to conduct a particular institution’s
+examination of fair lending performance.
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.5
+In certain cases where an agency already possesses
+information which provides examiners with guidance on
+priorities and risks for planning an upcoming examination,
+such information may expedite the scoping process and make
+it unnecessary to carry out all of the steps below. For
+example, the report of the previous fair lending examination
+may have included recommendations for the focus of the next
+examination. However, examiners should validate that the
+institution’s operational structure, product offerings, policies,
+and risks have not changed since the prior examination before
+condensing the scoping process.
+The scoping process can be performed either off-site, onsite, or
+both, depending on whatever is determined appropriate and
+feasible. In the interest of minimizing burdens on both the
+examination team and the institution, requests for information
+from the institution should be carefully thought out so as to
+include only the information that will clearly be useful in the
+examination process. Finally, any off-site information requests
+should be made sufficiently in advance of the on-site schedule
+to permit institutions adequate time to assemble necessary
+information and provide it to the examination team in a timely
+fashion. (See “Potential Scoping Information” in the
+Appendix for guidance on additional information that the
+examiner might wish to consider including in a request).
+Examiners should focus the examination based on:
+• An understanding of the credit operations
+of the institution;
+• The risk that discriminatory conduct may
+occur in each area of those operations; and
+• The feasibility of developing a factually
+reliable record of an institution’s
+performance and fair lending compliance in
+each area of those operations.
+Understanding Credit Operations
+Before evaluating the potential for discriminatory conduct,
+the examiner should review sufficient information about the
+institution and its market to understand the credit operations
+of the institution and the representation of prohibited basis
+group residents within the markets where the institution does
+business. The level of detail to be obtained at this stage
+should be sufficient to identify whether any of the risk
+factors in the steps below are present. Relevant background
+information includes:
+• The types and terms of credit products offered,
+differentiating among broad categories of credit such as
+residential, consumer, or commercial, as well as product
+variations within such categories (fixed vs. variable, etc.).
+• Whether the institution has a special purpose credit
+program, or other program that is specifically designed to
+assist certain underserved populations.
+• The volume of, or growth in, lending for each of the
+credit products offered.
+• The demographics (i.e., race, national origin, etc.) of
+the credit markets in which the institution is doing
+business.
+• The institution’s organization of its credit decisionmaking process, including identification of the
+delegation of separate lending authorities and the extent
+to which discretion in pricing or setting credit terms and
+conditions is delegated to various levels of managers,
+employees or independent brokers or dealers.
+• The institution’s loan officer or broker
+compensation program.
+• The types of relevant documentation/data that are
+available for various loan products and what is the
+relative quantity, quality and accessibility of such
+information (i.e., for which loan product(s) will the
+information available be most likely to support a sound
+and reliable fair lending analysis).
+• The extent to which information requests can be
+readily organized and coordinated with other
+compliance examination components to reduce undue
+burden on the institution. (Do not request more
+information than the exam team can be expected to
+utilize during the anticipated course of the
+examination.)
+In thinking about an institution’s credit markets, the
+examiner should recognize that these markets may or may
+not coincide with an institution’s Community Reinvestment
+Act (CRA) assessment area(s). Where appropriate, the
+examiner should review the demographics for a broader
+geographic area than the assessment area.
+Where an institution has multiple underwriting or loan
+processing centers or subsidiaries, each with fully
+independent credit-granting authority, consider evaluating
+each center and/or subsidiary separately, provided a
+sufficient number of loans exist to support a meaningful
+analysis. In determining the scope of the examination for
+such institutions, examiners should consider whether:
+• Subsidiaries should be examined. The agencies will hold
+a financial institution responsible for violations by its
+direct subsidiaries, but not typically for those by its
+affiliates (unless the affiliate has acted as the agent for the
+institution or the violation by the affiliate was known or
+should have been known to the institution before it
+became involved in the transaction or purchased the
+affiliate’s loans). When seeking to determine an
+institution’s relationship with affiliates that are not
+supervised financial institutions, limit the inquiry to what
+can be learned in the institution and do not contact the 
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.6 FDIC Consumer Compliance Examination Manual – March 2021
+affiliate without prior consultation with agency staff.
+• The underwriting standards and procedures used in the
+entity being reviewed are used in related entities not
+scheduled for the planned examination. This will help
+examiners to recognize the potential scope of policybased violations.
+• The portfolio consists of applications from a purchased
+institution. If so, for scoping purposes, examiners
+should consider the applications as if they were made to
+the purchasing institution. For comparison purposes,
+applications evaluated under the purchased institution’s
+standards should not be compared to applications
+evaluated under the purchasing institution’s standards.
+• The portfolio includes purchased loans. If so, examiners
+should look for indications that the institution specified
+loans to purchase based on a prohibited factor or caused a
+prohibited factor to influence the origination process.
+• A complete decision can be made at one of the several
+underwriting or loan processing centers, each with
+independent authority. In such a situation, it is best to
+conduct on-site a separate comparative analysis at each
+underwriting center. If covering multiple centers is not
+feasible during the planned examination, examiners should
+review their processes and internal controls to determine
+whether or not expanding the scope and/or length of the
+examination is justified.
+• Decision-making responsibility for a single transaction
+may involve more than one underwriting center. For
+example, an institution may have authority to decline
+mortgage applicants, but only the mortgage company
+subsidiary may approve them. In such a situation,
+examiners should learn which standards are applied in
+each entity and the location of records needed for the
+planned comparisons.
+• Applicants can be steered from the financial institution to
+the subsidiary or other lending channel and vice versa, and
+what policies and procedures exist to monitor this practice.
+• Any third parties, such as brokers or contractors, are
+involved in the credit decision and how responsibility is
+allocated among them and the institution. The
+institution’s familiarity with third party actions may be
+important, for an institution may be in violation if it
+participates in transactions in which it knew or reasonably
+ought to have known other parties were discriminating.
+As part of understanding the financial institution’s own
+lending operations, it is also important to understand any
+dealings the financial institution has with affiliated and nonaffiliated mortgage loan brokers and other third party
+lenders.
+These brokers may generate mortgage applications and
+originations solely for a specific financial institution or may
+broadly gather loan applicationsfor a variety of local,
+regional, or national lenders. As a result, it is important to
+recognize what impact these mortgage brokers and other
+third party lender actions and application processing
+operations have on the lending operations of a financial
+institution. Because brokers can be located anywhere in or
+out of the financial institution’s primary lending or CRA
+assessment areas, it is important to evaluate broker activity
+and fair lending compliance related to underwriting, terms,
+and conditions, redlining, and steering, each of which is
+covered in more depth in sections of these procedures.
+Examiners should consult with their respective agencies for
+specific guidance regarding broker activity.
+If the institution is large and geographically diverse,
+examiners should select only as many markets or
+underwriting centers as can be reviewed readily in depth,
+rather than selecting proportionally to cover every market.
+As needed, examiners should narrow the focus to the
+Metropolitan Statistical Area (MSA) or underwriting
+center(s) that are determined to present the highest
+discrimination risk. Examiners should use Loan Application
+Register (LAR) data organized by underwriting center, if
+available. After calculating denial rates between the control
+and prohibited basis groups for the underwriting centers,
+examiners should select the centers with the highest fair
+lending risk. This approach would also be used when
+reviewing pricing or other terms and conditions of approved
+applicants from the prohibited basis and control groups. If
+underwriting centers have fewer than five racial or national
+origin denials, examiners should not examine for racial
+discrimination in underwriting. Instead, they should shift the
+focus to other loan products or prohibited bases, or
+examination types such as a pricing examination.
+However, if examiners learn of other indications of risks that
+favor analyzing a prohibited basis with fewer transactions
+than the minimum in the sample size tables, they should
+consult with their supervisory office on possible alternative
+methods of analysis. For example, there is strong reason to
+examine a pattern in which almost all of 19 male borrowers
+received low rates but almost all of four female borrowers
+received high rates, even though the number of each group is
+fewer than the stated minimum. Similarly, there would be
+strong reason to examine a pattern in which almost all of 100
+control group applicants were approved but all four
+prohibited basis group applicants were not, even though the
+number of prohibited basis denials was fewer than five.
+Evaluating the Potential for Discriminatory Conduct
+Step One: Develop an Overview
+Based on his or her understanding of the credit operations and
+product offerings of an institution, an examiner should
+determine the nature and amount of information required for 
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.7
+the scoping process and should obtain and organize that
+information. No single examination can reasonably be
+expected to evaluate compliance performance as to every
+prohibited basis, in every product, or in every underwriting
+center or subsidiary of an institution. In addition to
+information gained in the process of Understanding Credit
+Operations, above, the examiner should keep in mind the
+following factors when selecting products for the scoping
+review:
+• Which products and prohibited bases were reviewed
+during the most recent prior examination(s) and,
+conversely, which products and prohibited bases have not
+recently been reviewed?
+• Which prohibited basis groups make up a significant
+portion of the institution’s market for the different credit
+products offered?
+• Which products and prohibited basis groups the institution
+reviewed using either a voluntarily disclosed self-test or a
+self-evaluation?
+Based on consideration of the foregoing factors, the examiner
+should request information for all residential and other loan
+products considered appropriate for scoping in the current
+examination cycle. In addition, wherever feasible, examiners
+should conduct preliminary interviews with the institution’s
+key underwriting personnel and those involved with
+establishing the institution’s pricing policies and practices.
+Using the accumulated information, the examiner should
+evaluate the following, as applicable:
+• Underwriting guidelines, policies, and standards.
+• Descriptions of credit scoring systems, including a list of
+factors scored, cutoff scores, extent of validation, and any
+guidance for handling overrides and exceptions. (Refer
+to Part A of the “Considering Automated Underwriting
+and Credit Scoring” section of the Appendix for
+guidance.)
+• Applicable pricing policies, risk-based pricing models,
+and guidance for exercising discretion over loan terms
+and conditions.
+• Descriptions of any compensation system, including
+whether compensation is related to, loan production or
+pricing.
+• The institution’s formal and informal relationships with
+any finance companies, subprime mortgage or consumer
+lending entities, or similar institutions.
+• Loan application forms.
+• Home Mortgage Disclosure Act – Loan Application
+Register (HMDA-LAR) or loan registers and lists of
+declined applications.
+• Description(s) of databases maintained for loan product(s)
+to be reviewed.
+• Records detailing policy exceptions or overrides,
+exception reporting and monitoring processes.
+• Copies of any consumer complaints alleging
+discrimination and related loan files.
+• Compliance program materials (particularly fair lending
+policies), training manuals, organization charts, as well as
+record keeping, monitoring protocols, and internal
+controls.
+• Copies of any available marketing materials or
+descriptions of current or previous marketing plans or
+programs or pre-screened solicitations.
+Step Two: Identify Compliance Program Discrimination
+Risk Factors
+Review information from agency examination work papers,
+institutional records and any available discussions with
+management representatives in sufficient detail to
+understand the organization, staffing, training,
+recordkeeping, auditing, policies and procedures of the
+institution’s fair lending compliance systems. Review
+these systems and note the following risk factors:
+C1. Overall institution compliance record is weak.
+C2. Prohibited basis monitoring information required by
+applicable laws and regulations is nonexistent or
+incomplete.
+C3. Data and/or recordkeeping problems compromised
+reliability of previous examination reviews.
+C4. Fair lending problems were previously found in one or
+more institution products or in institution subsidiaries.
+C5. The size, scope, and quality of the compliance
+management program, including management’s
+involvement, designation of a compliance officer, and
+staffing is materially inferior to programs customarily
+found in institutions of similar size, market
+demographics, and credit complexity.
+C6. The institution has not updated compliance policies and
+procedures to reflect changes in law or in agency
+guidance.
+C7. Fair lending training is nonexistent or weak.
+Consider these risk factors and their impact on particular
+lending products and practices as you conduct the product
+specific risk review during the scoping steps that follow.
+Where this review identifies fair lending compliance system
+deficiencies, give them appropriate consideration as part of the
+Compliance Management Review in Part II of these 
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.8 FDIC Consumer Compliance Examination Manual – March 2021
+procedures.
+Step Three: Review Residential Loan Products
+Although home mortgages may not be the ultimate subject of
+every fair lending examination, this product line must at least
+be considered in the course of scoping every institution that is
+engaged in the residential lending market.
+Divide home mortgage loans into the following groupings:
+home purchase, home improvement, and refinancings.
+Subdivide those three groups further if an institution does a
+significant number of any of the following types or forms of
+residential lending, and consider them separately:
+• Government-insured loans
+• Mobile home or manufactured housing loans
+• Wholesale, indirect, and brokered loans
+• Portfolio lending (including portfolios of Fannie
+Mae/Freddie Mac rejections)
+In addition, determine whether the institution offers any
+conventional “affordable” housing loan programs special
+purpose credit programs or other programs that are
+specifically designed to assist certain borrowers, such as
+underserved populations and whether their terms and
+conditions make them incompatible with regular conventional
+loans for comparative purposes. If so, consider them
+separately.
+If previous examinations have demonstrated the following,
+then an examiner may limit the focus of the current
+examination to alternative underwriting or processing centers
+or to other residential products that have received less scrutiny
+in the past:
+• A strong fair lending compliance program.
+• No record of discriminatory transactions at particular
+decision centers or in particular residential products.
+• No indication of a significant change in personnel,
+operations, or underwriting or pricing policies at those
+centers or in those residential products.
+• No unresolved fair lending complaints, administrative
+proceedings, litigation, or similar factors.
+• No discretion to set price or credit terms and conditions
+in particular decision centers or for particular
+residential products.
+Step Four: Identify Residential Lending Discrimination Risk
+Factors
+Review the lending policies, marketing plans, underwriting,
+appraisal and pricing guidelines, broker/agent agreements and
+loan application forms for each residential loan product that
+represents an appreciable volume of, or displays noticeable
+growth in, the institution’s residential lending.
+• Review also any available data regarding the geographic
+distribution of the institution’s loan originations with respect
+to the race and national origin percentages of the census tracts
+within its assessment area or, if different, its residential loan
+product lending area(s).
+• Conduct interviews of loan officers and other employees or
+agents in the residential lending process concerning adherence
+to and understanding of the above policies and guidelines as
+well as any relevant operating practices.
+• In the course of conducting the foregoing inquiries, look for
+the following risk factors (factors are numbered
+alphanumerically to coincide with the type of factor, e.g., “O”
+for “overt”; “P” for “pricing,” etc.).
+NOTE: For risk factors below that are marked with an
+asterisk (*), examiners need not attempt to calculate the
+indicated ratios for racial or national origin characteristics
+when the institution is not a HMDA reporter. However,
+consideration should be given in such cases to whether or not
+such calculations should be made based on gender or racialethnic surrogates.
+Overt indicators of discrimination such as:
+O1. Including explicit prohibited basis identifiers in the
+institution’s written or oral policies and procedures
+(underwriting criteria, pricing standards, etc.).
+O2. Collecting information, conducting inquiries or imposing
+conditions contrary to express requirements of Regulation
+B.
+O3. Including variables in a credit scoring system that
+constitute a basis or factor prohibited by Regulation B or,
+for residential loan scoring systems, the FHAct. (If a
+credit scoring system scores age, refer to Part E of the
+Considering Automated Underwriting and Credit Scoring
+section of the Appendix.)
+O4. Statements made by the institution’s officers, employees,
+or agents which constitute an express or implicit
+indication that one or more such persons have engaged or
+do engage in discrimination on a prohibited basis in any
+aspect of a credit transaction.
+O5. Employee or institutional statements that evidence
+attitudes based on prohibited basis prejudices or
+stereotypes.
+Indicators of potential disparate treatment in
+Underwriting such as:
+U1. *Substantial disparities among the approval/denial rates
+for applicants by monitored prohibited basis
+characteristic (especially within income categories).
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.9
+U2. *Substantial disparities among the application processing
+times for applicants by monitored prohibited basis
+characteristic (especially within denial reason groups).
+U3. *Substantially higher proportion of withdrawn/
+incomplete applications from prohibited basis group
+applicants than from other applicants.
+U4. Vague or unduly subjective underwriting criteria.
+U5. Lack of clear guidance on making exceptions to
+underwriting criteria, including credit scoring overrides.
+U6. Lack of clear loan file documentation regarding reasons
+for any exceptions to standard underwriting criteria,
+including credit scoring overrides.
+U7. Relatively high percentages of either exceptions to
+underwriting criteria or overrides of credit score cutoffs.
+U8. Loan officer or broker compensation based on loan
+volume (especially loans approved per period of time).
+U9. Consumer complaints alleging discrimination in loan
+processing or in approving/denying residential loans.
+Indicators of potential disparate treatment in Pricing (interest
+rates, fees, or points) such as:
+P1. Financial incentives for loan officers or brokers to
+charge higher prices (including interest rate, fees and
+points). Special attention should be given to situations
+where financial incentives are accompanied by broad
+pricing discretion (as in P2), such as through the use of
+overages or yield spread premiums.
+P2. Presence of broad discretion in loan pricing (including
+interest rate, fees and points), such as through overages,
+underages or yield spread premiums. Such discretion
+may be present even when institutions provide rate sheets
+and fees schedules, if loan officers or brokers are
+permitted to deviate from those rates and fees without
+clear and objective criteria.
+P3. Use of risk-based pricing that is not based on objective
+criteria or applied consistently.
+P4. *Substantial disparities among prices being quoted or
+charged to applicants who differ as to their monitored
+prohibited basis characteristics.
+P5. Consumer complaints alleging discrimination in
+residential loan pricing.
+P6. *In mortgage pricing, disparities in the incidence or rate
+spreads2 of higher-priced lending by prohibited basis
+characteristics as reported in the HMDA data.
+P7. *A loan program that contains only borrowers from a
+ 2 Regulation C, Section 203.4(a)(12)
+prohibited basis group, or has significant differences in
+the percentages of prohibited basis groups, especially in
+the absence of a Special Purpose Credit Program under
+ECOA.
+Indicators of potential disparate treatment by Steering such
+as:
+S1. Lack of clear, objective and consistently implemented
+standards for (i) referring applicants to subsidiaries,
+affiliates, or lending channels within the institution (ii)
+classifying applicants as “prime” or “sub-prime”
+borrowers, or (iii) deciding what kinds of alternative
+loan products should be offered or recommended to
+applicants (product placement).
+S2. Financial incentives for loan officers or brokers to place
+applicants in nontraditional products (i.e., negative
+amortization, “interest only”, “payment option”
+adjustable rate mortgages) or higher cost products.
+S3. For an institution that offers different products based on
+credit risk levels, any significant differences in
+percentages of prohibited basis groups in each of the
+alternative loan product categories.
+S4. *Significant differences in the percentage of prohibited
+basis applicants in loan products or products with specific
+features relative to control group applicants. Special
+attention should be given to products and features that
+have potentially negative consequences for applicants
+(i.e., non-traditional mortgages, prepayment penalties,
+lack of escrow requirements, or credit life insurance).
+S5. *For an institution that has one or more sub-prime
+mortgage subsidiaries or affiliates, any significant
+differences, by loan product, in the percentage of
+prohibited basis applicants of the institution compared to
+the percentage of prohibited basis applicants of the
+subsidiary(ies) or affiliate(s).
+S6. *For an institution that has one or more lending channels
+that originate the same loan product, any significant
+differences in the percentage of prohibited basis
+applicants in one of the lending channels compared to the
+percentage of prohibited basis applicants of the other
+lending channel.
+S7. Consumer complaints alleging discrimination in
+residential loan pricing or product placement.
+S8. *For an institution with sub-prime mortgage subsidiaries,
+a concentration of those subsidiaries’ branches in
+minority areas relative to its other branches.
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.10 FDIC Consumer Compliance Examination Manual – March 2021
+Indicators of potential discriminatory Redlining such as:
+R1. *Significant differences, as revealed in HMDA data, in
+the number of applications received, withdrawn,
+approved not accepted, and closed for incompleteness or
+loans originated in those areas in the institution’s market
+that have relatively high concentrations of minority group
+residents compared with areas with relatively low
+concentrations of minority residents.
+R2. *Significant differences between approval/denial rates for
+all applicants (minority and non-minority) in areas with
+relatively high concentrations of minority group residents
+compared with areas with relatively low concentrations of
+minority residents.
+R3. *Significant differences between denial rates based on
+insufficient collateral for applicants from areas with
+relatively high concentrations of minority residents and
+those areas with relatively low concentrations of minority
+residents.
+R4. *Significant differences in the number of originations of
+higher-priced loans or loans with potentially negative
+consequences for borrowers, (i.e., non-traditional
+mortgages, prepayment penalties, lack of escrow
+requirements) in areas with relatively high concentrations
+of minority residents compared with areas with relatively
+low concentrations of minority residents.
+R5. Other patterns of lending identified during the most
+recent CRA examination that differ by the concentration
+of minority residents.
+R6. Explicit demarcation of credit product markets that
+excludes MSAs, political subdivisions, census tracts, or
+other geographic areas within the institution’s lending
+market or CRA assessment areas and having relatively
+high concentrations of minority residents.
+R7. Difference in services available or hours of operation at
+branch offices located in areas with concentrations of
+minority residents when compared to branch offices
+located in areas with concentrations of non-minority
+residents.
+R8. Policies on receipt and processing of applications,
+pricing, conditions, or appraisals and valuation, or on any
+other aspect of providing residential credit that vary
+between areas with relatively high concentrations of
+minority residents and those areas with relatively low
+concentrations of minority residents.
+R9. The institution’s CRA assessment area appears to have
+been drawn to exclude areas with relatively high
+concentrations of minority residents.
+R10.Employee statements that reflect an aversion to doing
+business in areas with relatively high concentrations of
+minority residents.
+R11. Complaints or other allegations by consumers or
+community representatives that the institution excludes or
+restricts access to credit for areas with relatively high
+concentrations of minority residents. Examiners should
+review complaints against the institution filed either with
+their agency or the institution; the CRA public comment
+file; community contact forms; and the responses to
+questions about redlining, discrimination, and
+discouragement of applications, and about meeting the
+needs of racial or national origin minorities, asked as part
+of obtaining local perspectives on the performance of
+financial institutions during prior CRA examinations.
+R12. An institution that has most of its branches in
+predominantly non-minority neighborhoods at the same
+time that the institution’s sub-prime mortgage subsidiary
+has branches which are located primarily in
+predominantly minority neighborhoods.
+Indicators of potential disparate treatment in Marketing of
+residential products, such as:
+M1. Advertising patterns or practices that a reasonable
+person would believe indicate prohibited basis
+customers are less desirable.
+M2. Advertising only in media serving non-minority areas of
+the market.
+M3. Marketing through brokers or other agents that the
+institution knows (or has reason to know) would serve
+only one racial or ethnic group in the market.
+M4. Use of marketing programs or procedures for residential
+loan products that exclude one or more regions or
+geographies within the institutions assessment or
+marketing area that have significantly higher
+percentages of minority group residents than does the
+remainder of the assessment or marketing area.
+M5. Using mailing or other distribution lists or other
+marketing techniques for pre-screened or other offerings
+of residential loan products that:
+• Explicitly exclude groups of prospective borrowers on
+a prohibited basis; or
+• Exclude geographies (e.g., census tracts, ZIP codes,
+etc.) within the institution’s marketing area that have
+significantly higher percentages of minority group
+residents than does the remainder of the marketing area.
+M6. *Proportion of prohibited basis applicants is
+significantly lower than that group’s representation in
+the total population of the market area.
+M7. Consumer complaints alleging discrimination in
+advertising or marketing loans.
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.11
+Step Five: Organize and Focus Residential Risk Analysis
+Review the risk factors identified in Step 4 and, for each loan
+product that displays risk factors, articulate the possible
+discriminatory effects encountered and organize the
+examination of those loan products in accordance with the
+following guidance. For complex issues regarding these
+factors, consult with agency supervisory staff.
+• Where overt evidence of discrimination, as described in
+factors O1-O5, has been found in connection with a
+product, document those findings as described in Part III,
+B, besides completing the remainder of the planned
+examination analysis.
+• Where any of the risk factors U1-U9 are present,
+consider conducting an underwriting comparative file
+analysis as described in Part III, C.
+• Where any of the risk factors P1-P7 are present,
+consider conducting a pricing comparative file analysis
+as described in Part III, D.
+• Where any of the risk factors S1-S8 are present,
+consider conducting a steering analysis as described in
+Part III, E.
+• Where any of the risk factors R1-R12 are present,
+consider conducting an analysis for redlining as described
+in Part III, G.
+• Where any of the risk factors M1-M7 are present,
+consider conducting a marketing analysis as described in
+Part III, H.
+• Where an institution uses age in any credit scoring system,
+consider conducting an examination analysis of that credit
+scoring system’s compliance with the requirements of
+Regulation B as described in Part III, I.
+Step Six: Identify Consumer Lending Discrimination Risk
+Factors
+For any consumer loan products selected in Step One for risk
+analysis, examiners should conduct a risk factor review similar
+to that conducted for residential lending products in Steps
+Three through Five, above. Examiners should consult with
+agency supervisory staff regarding the potential use of
+surrogates to identify possible prohibited basis group
+individuals.
+NOTE: The term surrogate in this context refers to any factor
+related to a loan applicant that potentially identifies that
+applicant’s race, color, or other prohibited basis
+characteristic in instances where no direct evidence of that
+characteristic is available. Thus, in consumer lending, where
+monitoring data is generally unavailable, a Hispanic or Asian
+surname could constitute a surrogate for an applicant’s race
+or national origin because the examiner can assume that the
+institution (which can rebut the presumption) perceived the
+person to be Hispanic or Asian. Similarly, an applicant’s
+given name could serve as a surrogate for his or her gender.
+A surrogate for a prohibited basis group characteristic may be
+used to set up a comparative analysis with control group
+applicants or borrowers.
+Examiners should then follow the rules in Steps Three
+through Five, above and identify the possible discriminatory
+patterns encountered and consider examining those products
+determined to have sufficient risk of discriminatory conduct.
+Step Seven: Identify Commercial Lending Discrimination
+Risk Factors
+Where an institution does a substantial amount of lending in
+the commercial lending market, most notably small business
+lending and the product has not recently been examined or
+the underwriting standards have changed since the last
+examination of the product, the examiner should consider
+conducting a risk factor review similar to that performed for
+residential lending products, as feasible, given the limited
+information available. Such an analysis should generally be
+limited to determining risk potential based on risk factors
+U4- U8; P1-P3; R5-R7; and M1-M3.
+If the institution makes commercial loans insured by the
+Small Business Administration (SBA), determine from
+agency supervisory staff whether SBA loan data (which
+codes race and other factors) are available for the institution
+and evaluate those data pursuant to instructions
+accompanying them.
+For large institutions reporting small business loans for
+CRA purposes and where the institution also voluntarily
+geocodes loan denials, look for material discrepancies in
+ratios of approval-to-denial rates for applications in areas
+with high concentrations of minority residents compared to
+areas with concentrations of non-minority residents.
+Articulate the possible discriminatory patterns identified
+and consider further examining those products determined
+to have sufficient risk of discriminatory conduct in
+accordance with the procedures for commercial lending
+described in Part III, F.
+Step Eight: Complete the Scoping Process
+To complete the scoping process, the examiner should
+review the results of the preceding steps and select those
+focal points that warrant examination, based on the relative
+risk levels identified above. In order to remain within the
+agency’s resource allowances, the examiner may need to
+choose a smaller number of focal points from among all
+those selected on the basis of risk. In such instances, set the
+scope by first, prioritizing focal points on the basis of (i)
+high number and/or relative severity of risk factors; (ii) high
+data quality and other factors affecting the likelihood of
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.12 FDIC Consumer Compliance Examination Manual – March 2021
+obtaining reliable examination results; (iii) high loan volume
+and the likelihood of widespread risk to applicants and
+borrowers; and (iv) low quality of any compliance program
+and, second, selecting for examination review as many focal
+points as resources permit.
+Where the judgment process among competing focal points is
+a close call, information learned in the phase of conducting the
+compliance management review can be used to further refine
+the examiner’s choices.
+Part II — Compliance Management Review
+The Compliance Management Review enables the
+examination team to determine:
+• The intensity of the current examination based on an
+evaluation of the compliance management measures
+employed by an institution.
+• The reliability of the institution’s practices and procedures
+for ensuring continued fair lending compliance.
+Generally, the review should focus on:
+• Determining whether the policies and procedures of the
+institution enable management to prevent, or to identify
+and self-correct, illegal disparate treatment in the
+transactions that relate to the products and issues
+identified for further analysis under Part I of these
+procedures.
+• Obtaining a thorough understanding of the manner by
+which management addresses its fair lending
+responsibilities with respect to (a) the institution’s lending
+practices and standards, (b) training and other applicationprocessing aids, (c) guidance to employees or agents in
+dealing with customers, and (d) its marketing or other
+promotion of products and services.
+To conduct this review, examiners should consider institutional
+records and interviews with appropriate management personnel
+in the lending, compliance, audit, and legal functions. The
+examiner should also refer to the Compliance Management
+Analysis Checklist contained in the Appendix to evaluate the
+strength of the compliance programs in terms of their capacity
+to prevent, or to identify and self- correct, fair lending
+violations in connection with the products or issues selected for
+analysis. Based on this evaluation:
+• Set the intensity of the transaction analysis by minimizing
+sample sizes within the guidelines established in Part III
+and the Fair Lending Sample Size Tables in the
+Appendix, to the extent warranted by the strength and
+thoroughness of the compliance programs applicable to
+those focal points selected for examination.
+ 3 This reflects the interagency examination procedures in their entirety.
+• Identify any compliance program or system deficiencies
+that merit correction or improvement and present these to
+management in accordance with Part IV of these
+procedures.
+Where an institution performs a self-evaluation or has
+voluntarily disclosed the report or results of a self-test of
+any product or issue that is within the scope of the
+examination and has been selected for analysis pursuant to
+Part I of these procedures, examiners may streamline the
+examination, consistent with agency guidance, provided
+the self-test or self-evaluation meets the requirements set
+forth in Using Self-Tests and Self-Evaluations to
+Streamline the Examination located in the Appendix.
+Part III — Examination Procedures3
+Once the scope and intensity of the examination have been
+determined, assess the institution’s fair lending
+performance by applying the appropriate procedures that
+follow to each of the examination focal points already
+selected.
+A. Verify Accuracy of Data
+Prior to any analysis and preferably before the scoping
+process, examiners should assess the accuracy of the data
+being reviewed. Data verifications should follow specific
+protocols (sampling, size, etc.) intended to ensure the
+validity of the review. For example, where an institution’s
+LAR data is relied upon, examiners should generally
+validate the accuracy of the institution’s submitted data by
+selecting a sample of LAR entries and verifying that the
+information noted on the LAR was reported according to
+instructions by comparing information contained in the loan
+file for each sampled loan. If the LAR data are inconsistent
+with the information contained in the loan files, depending
+on the nature of the errors, examiners may not be able to
+proceed with a fair lending analysis until the LAR data
+have been corrected by the institution. In cases where
+inaccuracies impede the examination, examiners should
+direct the institution to take action to ensure data integrity
+(data scrubbing, monitoring, training, etc.).
+NOTE: While the procedures refer to the use of HMDA data,
+other data sources should be considered, especially in the
+case of non-HMDA reporters or institutions that originate
+loans but are not required to report them on a LAR.
+B. Documenting Overt Evidence of Disparate Treatment
+Where the scoping process or any other source identifies
+overt evidence of disparate treatment, the examiner should
+assess the nature of the policy or statement and the extent of
+its impact on affected applicants by conducting the
+following analysis.
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.13
+Step 1. Where the indicator(s) of overt discrimination are
+found in or based on a written policy (for example, a credit
+scorecard) or communication, determine and document:
+a. The precise language of the apparently discriminatory
+policy or communication and the nature of the fair
+lending concerns that it raises.
+b. The institution’s stated purpose in adopting the policy
+or communication and the identity of the person on
+whose authority it was issued or adopted.
+c. How and when the policy or communication was put
+into effect.
+d. How widely the policy or communication was applied.
+e. Whether and to what extent applicants were adversely
+affected by the policy or communication.
+Step 2. Where any indicator of overt discrimination was an
+oral statement or unwritten practice, determine and
+document:
+a. The precise nature of both the statement, or practice, and
+of the fair lending concerns that they raise.
+b. The identity of the persons making the statement or
+applying the practice and their descriptions of the
+reasons for it and the persons authorizing or directing the
+use of the statement or practice.
+c. How and when the statement or practice was
+disseminated or put into effect.
+d. How widely the statement or practice was disseminated
+or applied.
+e. Whether and to what extent applicants were
+adversely affected by the statement or practice.
+Assemble findings and supporting documentation for
+presentation to management in connection with Part IV of
+these procedures.
+C. Transactional Underwriting Analysis — Residential and
+Consumer Loans.
+Step 1. Set Sample Size
+a. For each focal point selected for this analysis, two
+samples will be utilized: (i) prohibited basis group denials
+and (ii) control group approvals, both identified either
+directly from monitoring information in the case of
+residential loan applications or through the use of
+application data or surrogates in the case of consumer
+applications.
+b. Refer to Fair Lending Sample Size Tables, Table A in the
+Appendix and determine the size of the initial sample for
+each focal point, based on the number of prohibited basis
+group denials and the number of control group approvals
+by the institution during the twelve month (or calendar
+year) period of lending activity preceding the
+examination.
+In the event that the number of denials and/or approvals
+acted on during the preceding 12 month period
+substantially exceeds the maximum sample size shown
+in Table A, reduce the time period from which that
+sample is selected to a shorter period. (In doing so,
+make every effort to select a period in which the
+institution’s underwriting standards are most
+representative of those in effect during the full 12
+month period preceding the examination.)
+c. If the number of prohibited basis group denials or
+control group approvals for a given focal point that were
+acted upon during the 12 month period referenced in
+1.b., above, do not meet the minimum standards set forth
+in the Sample Size Table, examiners need not attempt a
+transactional analysis for that focal point. Where other
+risk factors favor analyzing such a focal point, consult
+with agency supervisory staff on possible alternative
+methods of judgmental comparative analysis.
+d. If agency policy calls for a different approach to
+sampling (e.g., a form of statistical analysis, a
+mathematical formula, or an automated tool) for a
+limited class of institutions, examiners should follow
+that approach.
+Step 2. Determine Sample Composition
+a. To the extent the institution maintains records of loan
+outcomes resulting from exceptions to its credit
+underwriting standards or other policies (e.g., overrides
+to credit score cutoffs), request such records for both
+approvals and denials, sorted by loan product and
+branch or decision center, if the institution can do so.
+Include in the initial sample for each focal point all
+exceptions or overrides applicable to that focal point.
+b. Using HMDA/LAR data or, for consumer loans,
+comparable loan register data to the extent
+available, choose approved and denied
+applications based on selection criteria that will
+maximize the likelihood of finding marginal
+approved and denied applicants, as discussed
+below.
+c. To the extent that the above factors are inapplicable or
+other selection criteria are unavailable or do not
+facilitate selection of the entire sample size of files,
+complete the initial sample selection by making random
+file selections from the appropriate sample categories in
+the Sample Size Table.
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.14 FDIC Consumer Compliance Examination Manual – March 2021
+Step 3. Compare Approved and Denied Applications
+Overview: Although a creditor’s written policies and
+procedures may appear to be nondiscriminatory, lending
+personnel may interpret or apply policies in a
+discriminatory manner. In order to detect any disparate
+treatment among applicants, the examiner should first
+eliminate all but “marginal transactions” (see 3.b. below)
+from each selected focal point sample. Then, a detailed
+profile of each marginal applicant’s qualifications, the
+level of assistance received during the application process,
+the reasons for denial, the loan terms, and other
+information should be recorded on an Applicant Profile
+Spreadsheet. Once profiled, the examiner can compare the
+target and control groups for evidence that similarly
+qualified applicants have been treated differently as to
+either the institution’s credit decision or the quality of
+assistance provided.
+a. Create Applicant Profile Spreadsheet
+Based upon the institution’s written and/or articulated
+credit standards and loan policies, identify categories of
+data that should be recorded for each applicant and
+provide a field for each of these categories on a
+worksheet or computerized spreadsheet. Certain data
+(income, loan amount, debt, etc.) should always be
+included in the spreadsheet, while the other data
+selected will be tailored for each loan product and
+institution based on applicable underwriting criteria
+and such issues as branch location and underwriter.
+Where credit bureau scores and/or application scores
+are an element of the institution’s underwriting criteria
+(or where such information is regularly recorded in
+loan files, whether expressly used or not), include a
+data field for this information in the spread sheet.
+In order to facilitate comparisons of the quality of
+assistance provided to target and control group applicants,
+respectively, every work sheet should provide a
+“comments” block appropriately labeled as the site for
+recording observations from the file or interviews
+regarding how an applicant was, or was not, assisted in
+overcoming credit deficiencies or otherwise qualifying for
+approval.
+b. Complete Applicant Profiles
+From the application files sample for each focal point,
+complete applicant profiles for selected denied and
+approved applications as follows:
+• A principal goal is to identify cases where similarly
+qualified prohibited basis and control group
+applicants had different credit outcomes, because the
+agencies have found that discrimination, including
+differences in granting assistance during the approval
+process, is more likely to occur with respect to
+applicants who are not either clearly qualified or
+unqualified ( i.e., “marginal” applicants). The
+examiner-in-charge should, during the following
+steps, judgmentally select from the initial sample
+only those denied and approved applications which
+constitute marginal transactions. (See Appendix on
+Identifying Marginal Transactions for guidance)
+• If few marginal control group applicants are identified
+from the initial sample, review additional files of
+approved control group applicants. This will either
+increase the number of marginal approvals or confirm that
+marginal approvals are so infrequent that the marginal
+denials are unlikely to involve disparate treatment.
+• The judgmental selection of both marginal-denied and
+marginal-approved applicant loan files should be done
+together, in a “back and forth” manner, to facilitate
+close matches and a more consistent definition of
+“marginal” between these two types of loan files.
+• Once the marginal files have been identified, the data
+elements called for on the profile spreadsheet are
+extracted or noted and entered.
+• While conducting the preceding step, the examiner
+should simultaneously look for and document on the
+spreadsheet any evidence found in marginal files
+regarding the following:
+° the extent of any assistance, including both
+affirmative aid and waivers or partial waivers of
+credit policy provisions or requirements, that
+appears to have been provided to marginalapproved control group applicants which enabled
+them to overcome one or more credit deficiencies,
+such as excessive debt-to-income ratios; and
+° the extent to which marginal-denied target group
+applicants with similar deficiencies were, or were
+not, provided similar affirmative aid, waivers or
+other forms of assistance.
+c. Review and Compare Profiles
+• For each focal point, review all marginal profiles to determine
+if the underwriter followed institution lending policies in
+denying applications and whether the reason(s) for denial were
+supported by facts documented in the loan file and properly
+disclosed to the applicant pursuant to Regulation B. If any (a)
+unexplained deviations from credit standards, (b) inaccurate
+reasons for denial or (c) incorrect disclosures are noted,
+(whether in a judgmental underwriting system, a scored
+system or a mixed system) the examiner should obtain an
+explanation from the underwriter and document the response
+on an appropriate workpaper.
+NOTE: In constructing the applicant profiles to be
+compared, examiners must adjust the facts compared so that
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.15
+assistance, waivers, or acts of discretion are treated
+consistently between applicants. For example, if a control
+group applicant’s DTI ratio was lowered to 42% because
+the institution decided to include short-term overtime
+income and a prohibited basis group applicant who was
+denied due to “insufficient income” would have had his
+ratio drop from 46% to 41% if his short-term overtime
+income had been considered, then the examiners should
+consider 41%, not 46%, in determining the benchmark.
+• For each reason for denial identified within the target
+group, rank the denied prohibited basis applicants,
+beginning with the applicant whose qualification(s)
+related to that reason for denial were least deficient.
+(The top-ranked denied applicant in each such ranking
+will be referred to below as the “benchmark”
+applicant.)
+• Compare each marginal control group approval to the
+benchmark applicant in each reason-for-denial ranking
+developed in step (b), above. If there are no approvals
+who are equally or less qualified, then there are no
+instances of disparate treatment for the institution to
+account for. For all such approvals that appear no better
+qualified than the denied benchmark applicant
+o identify the approved loan on the worksheet or
+spreadsheet as an “overlap approval,” and
+o compare that overlap approval with other
+marginal prohibited basis denials in the ranking to
+determine whether additional overlaps exist. If
+so, identify all overlapping approvals and denials
+as above.
+• Where the focal point involves use of a credit scoring
+system, the analysis for disparate treatment is similar to
+the procedures set forth in (c) above, and should focus
+primarily on overrides of the scoring system itself. For
+guidance on this type of analysis, refer to Considering
+Automated Underwriting and Credit Scoring, Part C in
+the Appendix.
+Step 4. If there is some evidence of violations in the
+underwriting process but not enough to clearly establish the
+existence of a pattern or practice, the examiner should
+expand the sample as necessary to determine whether a
+pattern or practice does or does not exist.
+Step 5. Discuss all findings resulting from the above
+comparisons with management and document both the
+findings and all conversations on an appropriate worksheet.
+D. Analyzing Potential Disparities in Pricing and Other
+Terms and Conditions.
+Depending on the intensity of the examination and the size of
+the borrower population to be reviewed, the analysis of
+decisions on pricing and other terms and conditions may
+involve a comparative file review, statistical analysis, a
+combination of the two, or other specialized technique used by
+an agency. Each examination process assesses an institution’s
+credit-decision standards and whether decisions on pricing and
+other terms and conditions are applied to borrowers without
+regard to a prohibited basis.
+The procedures below encompass the examination steps for a
+comparative file review. Examiners should consult their own
+agency’s procedures for detailed guidance where appropriate.
+For example, when file reviews are undertaken in conjunction
+with statistical analysis, the guidance on specific sample sizes
+referenced below may not apply.
+Step 1. Determine Sample Selection
+Examiners may review data in its entirety or restrict their
+analysis to a sample depending on the examination
+approach used and the quality of the institution’s
+compliance management system. The Fair Lending Sample
+Size Tables in the Appendix provide general guidance about
+appropriate sample sizes. Generally, the sample size should
+be based on the number of prohibited basis group and
+control group originations for each focal point selected
+during the 12 months preceding the examination and the
+outcome of the compliance management system analysis
+conducted in Part II. When possible, examiners should
+request specific loan files in advance and request that the
+institution have them available for review at the start of the
+examination.
+Step 2. Determine Sample Composition and Create
+Applicant Profiles
+Examiners should tailor their sample and subsequent
+analysis to the specific factors that the institution considers
+when determining its pricing, terms, and conditions. For
+example, while decisions on pricing, and other terms and
+conditions are part of an institution’s underwriting process,
+general underwriting criteria should not be used in the
+analysis if they are not relevant to the term or condition to
+be reviewed. Additionally, consideration should be limited
+to factors which examiners determine to be legitimate.
+While the period for review should be 12-months, prohibited
+basis group and control group borrowers should be grouped
+and reviewed around a range of dates during which the
+institution’s practices for the term or condition being
+reviewed were the same. Generally, examiners should use
+the loan origination date or the loan application date.
+Identify data to be analyzed for each focal point to be
+reviewed and record this information for each borrower on
+a spreadsheet to ensure a valid comparison regarding terms
+and conditions. For example, in certain cases, an institution
+may offer slightly differentiated products with significant
+pricing implications to borrowers. In these cases, it may be 
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.16 FDIC Consumer Compliance Examination Manual – March 2021
+appropriate to group these procedures together for the
+purposes of evaluation.
+Step 3. Review Terms and Conditions; Compare with
+Borrower Outcomes
+a. Review all loan terms and conditions (rates, points,
+fees, maturity variations, LTVs, collateral
+requirements, etc.) with special attention to those
+which are left, in whole or in part, to the discretion of
+loan officers or underwriters. For each such term or
+condition, identify (a) any prohibited basis group
+borrowers in the sample who appear to have been
+treated unfavorably with respect to that term or
+condition and (b) any control group borrowers who
+appear to have been treated favorably with respect to
+that term or condition. The examiner’s analysis should
+be thoroughly documented in the workpapers.
+b. Identify from the sample universe any control group
+borrowers who appear to have been treated more
+favorably than one or more of the above-identified
+prohibited basis group borrowers and who have
+pricing or creditworthiness factors (under the
+institution’s standards) that are equal to or less
+favorable than the prohibited basis group borrowers.
+c. Obtain explanations from the appropriate loan officer or
+other employee for any differences that exist and
+reanalyze the sample for evidence of discrimination.
+d. If there is some evidence of violations in the imposition of
+terms and conditions but not enough to clearly establish
+the existence of a pattern or practice, the examiner should
+expand the sample as necessary to determine whether a
+pattern or practice does or does not exist.
+e. Discuss differences in comparable loans with the
+institution’s management and document all conversations
+on an appropriate worksheet. For additional guidance on
+evaluating management’s responses, refer to Part A, 1 – 5,
+Evaluating Responses to Evidence of Disparate Treatment
+in the Appendix.
+E. Steering Analysis
+An institution that offers a variety of lending products or
+product features, either through one channel or through
+multiple channels, may benefit consumers by offering greater
+choices and meeting the diverse needs of applicants. Greater
+product offerings and multiple channels, however, may also
+create a fair lending risk that applicants will be illegally
+steered to certain choices based on prohibited characteristics.
+Several examples illustrate potential fair lending risk:
+• An institution that offers different lending products based
+on credit risk levels may present opportunities for loan
+officers or brokers to illegally steer applicants to the
+higher-risk products.
+• An institution that offers nontraditional loan products or
+loan products with potentially onerous terms (such as
+prepayment penalties) may present opportunities for loan
+officers or brokers to illegally steer applicants to certain
+products or features.
+• An institution that offers prime or sub-prime products
+through different channels may present opportunities for
+applicants to be illegally steered to the sub-prime
+channel.
+The distinction between guiding consumers toward a specific
+product or feature and illegal steering centers on whether the
+institution did so on a prohibited basis, rather than based on
+an applicant’s needs or other legitimate factors. It is not
+necessary to demonstrate financial harm to a group that has
+been “steered.” It is enough to demonstrate that action was
+taken on a prohibited basis regardless of the ultimate
+financial outcome. If the scoping analysis reveals the
+presence of one or more risk factors S1 through S8 for any
+selected focal point, consult with agency supervisory staff
+about conducting a steering analysis as described below.
+Step 1. Clarify what options are available to applicants
+Through interviews with appropriate personnel of the
+institution and review of policy manuals, procedure
+guidelines and other directives, obtain and verify the
+following information for each product-alternative product
+pairing or grouping identified above:
+a. All underwriting criteria for the product or feature and
+their alternatives that are offered by the institution or by
+a subsidiary or affiliate. Examples of products may
+include stated income, negative amortization, and
+options ARMs. Examples of terms and features include
+prepayment penalties and escrow requirements. The
+distinction between a product, term, and feature may
+vary institution to institution. For example, some
+institutions may consider “stated income” a feature,
+whiles others may consider that a distinct product.
+b. Pricing or other costs applicable to the product and the
+alternative product(s), including interest rates, points,
+and all fees.
+Step 2. Document the policies, conditions, or criteria that
+have been adopted by the institution for determining how
+referrals are to be made and choices presented to applicants.
+a. Obtain not only information regarding the product or
+feature offered by the institution and alternatives
+offered by subsidiaries/affiliates, but also information
+on alternatives offered solely by the institution itself.
+b. Obtain any information regarding a subsidiary of the
+institution directly from that entity, but seek
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.17
+information regarding an affiliate or holding company
+subsidiary only from the institution itself.
+c. Obtain all appropriate documentation and provide a
+written summary of all discussions with loan
+personnel and managers.
+d. Obtain documentation and/or employee estimates as to
+the volume of referrals made from or to the institution,
+for each product, during a relevant time period.
+e. Resolve to the extent possible any discrepancies
+between information found in the institution’s
+documents and information obtained in discussions
+with loan personnel and managers by conducting
+appropriate follow-up interviews.
+f. Identify any policies and procedures established by the
+institution and/or the subsidiary or affiliate for (i)
+referring a person who applies to the institution, but
+does not meet its criteria, to another internal lending
+channel, subsidiary or affiliate; (ii) offering one or
+more alternatives to a person who applies to the
+institution for a specific product or feature, but does
+not meet its criteria; or (iii) referring a person who
+applies to a subsidiary or affiliate for its product, but
+who appears qualified for a loan from the institution, to
+the institution; or referring a person who applies
+through one internal lending channel for a product, but
+who appears to be qualified for a loan through another
+lending channel to that particular lending channel.
+g. Determine whether loan personnel are encouraged,
+through financial incentives or otherwise, to make
+referrals, either from the institution to a
+subsidiary/affiliate or vice versa. Similarly,
+determine whether the institution provides
+financial incentives related to products and
+features.
+Step 3. Determine how referral decisions are made and
+documented within the institution.
+Determine how a referral is made to another internal lending
+channel, subsidiary, or affiliate. Determine the reason for
+referral and how it is documented.
+Step 4. Determine to what extent individual loan personnel
+are able to exercise personal discretion in deciding what loan
+products or other credit alternatives will be made available to
+a given applicant.
+Step 5. Determine whether the institution’s stated policies,
+conditions, or criteria in fact are adhered to by individual
+decision makers. If not, does it appear that different policies
+or practices are actually in effect?
+Enter data from the prohibited basis group sample on the
+spread sheets and determine whether the institution is, in fact,
+applying its criteria as stated. For example, if one announced
+criterion for receiving a “more favorable” prime mortgage
+loan was a back end debt ratio of no more than 38%, review
+the spread sheets to determine whether that criteria was
+adhered to. If the institution’s actual treatment of prohibited
+basis group applicants appears to differ from its stated
+criteria, document such differences for subsequent discussion
+with management.
+Step 6. To the extent that individual loan personnel have any
+discretion in deciding what products and features to offer
+applicants, conduct a comparative analysis to determine
+whether that discretion has been exercised in a
+nondiscriminatory manner.
+Compare the institution’s or subsidiary/affiliate’s treatment of
+control group and prohibited basis group applicants by
+adapting the “benchmark” and “overlap” technique discussed
+in Part III, Section C of these procedures. For purposes of
+this Steering Analysis, that technique should be conducted as
+follows:
+a. For each focal point to be analyzed, select a sample of
+prohibited basis group applicants who received “less
+favorable” treatment (e.g., referral to a finance
+company or a subprime mortgage subsidiary or
+counteroffers of less favorable product alternatives).
+NOTE: In selecting the sample, follow the guidance of
+Fair Lending Sample Size Tables, Table B in the
+Appendix and select “marginal applicants” as
+instructed in Part III, Section C, above.
+b. Prepare a spread sheet for the sample which contains
+data entry categories for those underwriting and/or
+referral criteria that the institution identified in Step 1.b
+as used in reaching underwriting and referral decisions
+between the pairs of products.
+c. Review the “less favorably” treated prohibited basis
+group sample and rank this sample from least qualified
+to most qualified.
+d. From the sample, identify the best qualified prohibited
+basis group applicant, based on the criteria identified
+for the control group, above. This applicant will be
+the “benchmark” applicant. Rank order the remaining
+applicants from best to least qualified.
+e. Select a sample of control group applicants. Identify
+those who were treated “more favorably” with respect to
+the same product-alternative product pair as the
+prohibited basis group. (Again refer to the Sample Size
+Table B and marginal applicant processes noted above
+in selecting the sample.)
+f. Compare the qualifications of the benchmark applicant
+with those of the control group applicants, beginning
+with the least qualified member of that sample. Any
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.18 FDIC Consumer Compliance Examination Manual – March 2021
+control group applicant who appears less qualified than
+the benchmark applicant should be identified on the
+spreadsheet as a “control group overlap.”
+g. Compare all control group overlaps with other, less
+qualified prohibited basis group applicants to
+determine whether additional overlaps exist
+h. Document all overlaps as possible disparities in treatment.
+Discuss all overlaps and related findings (e.g., any
+differences between stated and actual underwriting and/or
+referral criteria) with management, documenting all such
+conversations.
+Step 7. Examiners should consult with their agency’s
+supervisory staff if they see a need to contact control group
+or prohibited basis group applicants to substantiate the
+steering analysis.
+F. Transactional Underwriting Analysis — Commercial
+Loans.
+Overview: Unlike consumer credit, where loan products and
+prices are generally homogenous and underwriting involves
+the evaluation of a limited number of credit variables,
+commercial loans are generally unique and underwriting
+methods and loan pricing may vary depending on a large
+number of credit variables. The additional credit analysis
+that is involved in underwriting commercial credit products
+will entail additional complexity in the sampling and
+discrimination analysis process. Although ECOA prohibits
+discrimination in all commercial credit activities of a covered
+institution, the agencies recognize that small businesses (sole
+proprietorships, partnerships, and small, closely-held
+corporations) may have less experience in borrowing. Small
+businesses may have fewer borrowing options, which may
+make them more vulnerable to discrimination. Therefore, in
+implementing these procedures, examinations should
+generally be focused on small business credit (commercial
+applicants that had gross revenues of $1,000,000 or less in
+the preceding fiscal year), absent some evidence that a focus
+on other commercial products would be more appropriate.
+Step 1. Understand Commercial Loan Policies
+For the commercial product line selected for analysis, the
+examiner should first review credit policy guidelines and
+interview appropriate commercial loan managers and officers
+to obtain written and articulated standards used by the
+institution in evaluating commercial loan applications.
+NOTE: Examiners should consult their own agencies for
+guidance on when a comparative analysis or statistical
+analysis is appropriate, and follow their agencies procedures
+for conducting such a review/analysis.
+Step 2. Conduct Comparative File Review
+a. Select all (or a maximum of ten) denied applications that
+were acted on during the three month period prior to the
+examination. To the extent feasible, include denied
+applications from businesses that are (i) located in
+minority and/or integrated geographies or (ii) appear to be
+owned by women or minority group members, based on
+the names of the principals shown on applications or
+related documents. (In the case of institutions that do a
+significant volume of commercial lending, consider
+reviewing more than ten applications.)
+b. For each of the denied commercial applications selected,
+record specific information from loan files and through
+interviews with the appropriate loan officer(s), about the
+principal owners, the purpose of the loan, and the specific,
+pertinent financial information about the commercial
+enterprise (including type of business — retail,
+manufacturing, service, etc.), that was used by the
+institution to evaluate the credit request. Maintenance or
+use of data that identifies prohibited basis characteristics
+of those involved with the business (either in approved or
+denied loan applications) should be evaluated as a
+potential violation of Regulation B.
+c. Select ten approved loans that appear to be similar with
+regard to business type, purpose of loan, loan amount,
+loan terms, and type of collateral, as the denied loans
+sampled. For example, if the denied loan sample
+includes applications for lines of credit to cover
+inventory purchases for retail businesses, the examiner
+should select approved applications for lines of credit
+from retail businesses.
+d. For each approved commercial loan application
+selected, obtain and record information parallel to that
+obtained for denied applications.
+e. The examiner should first compare the credit criteria
+considered in the credit process for each of the
+approved and denied applications to established
+underwriting standards, rather than comparing files
+directly.
+f. The examiner should identify any deviations from
+credit standards for both approved and denied credit
+requests, and differences in loan terms granted for
+approved credit requests.
+g. The examiner should discuss each instance where
+deviations from credit standards and terms were noted,
+but were not explained in the file, with the commercial
+credit underwriter. Each discussion should be
+documented.
+Step 3. Conduct Targeted Sampling
+a. If deviations from credit standards or pricing are not
+sufficiently explained by other factors either
+documented in the credit file or the commercial
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.19
+underwriter was not able to provide a reasonable
+explanation, the examiner should determine if
+deviations were detrimental to any protected classes of
+applicants.
+b. The examiner should consider employing the same
+techniques for determining race and gender
+characteristics of commercial applicants as those
+outlined in the consumer loan sampling procedures.
+c. If it is determined that there are members of one or more
+prohibited basis groups among commercial credit
+requests that were not underwritten according to
+established standards or received less favorable terms,
+the examiner should select additional commercial loans,
+where applicants are members of the same prohibited
+basis group and select similarly situated control group
+credit requests in order to determine whether there is a
+pattern or practice of discrimination. These additional
+files should be selected based on the specific applicant
+circumstance(s) that appeared to have been viewed
+differently by lending personnel on a prohibited basis.
+d. If there are not enough similarly situated applicants for
+comparison in the original sample period to draw a
+reasonable conclusion, the examiner should expand the
+sample period. The expanded sample period should
+generally not go beyond the date of the prior examination.
+Sampling Guidelines
+a. Generally, the task of selecting an appropriate expanded
+sample of prohibited basis and control group applications
+for commercial loans will require examiner judgment.
+The examiner should select a sample that is large enough
+to be able to draw a reasonable conclusion.
+b. The examiner should first select from the applications that
+were acted on during the initial sample period, but were
+not included in the initial sample, and select applications
+from prior time periods as necessary.
+c. The expanded sample should include both approved and
+denied, prohibited basis and control group applications,
+where similar credit was requested by similar enterprises
+for similar purposes.
+G. Analysis of Potential Discriminatory “Redlining”
+Overview: For purposes of this analysis, traditional “redlining”
+is a form of illegal disparate treatment in which an institution
+provides unequal access to credit, or unequal terms of credit,
+because of the race, color, national origin, or other prohibited
+characteristic(s) of the residents of the area in which the credit
+seeker resides or will reside or in which the residential
+property to be mortgaged is located. Redlining may also
+include “reverse redlining,” the practice of targeting certain
+borrowers or areas with less advantageous products or services
+based on prohibited characteristics.
+The redlining analysis may be applied to determine whether,
+on a prohibited basis:
+• an institution fails or refuses to extend credit in certain
+areas;
+• an institution targets certain borrowers or certain areas
+with less advantageous products:
+• an institution makes loans in such an area but at a
+restricted level or upon less-favorable terms or conditions
+as compared to contrasting areas; or
+• an institution omits or excludes such an area from efforts
+to market residential loans or solicit customers for
+residential credit.
+This guidance focuses on possible discrimination based on
+race or national origin. The same analysis could be adapted
+to evaluate relative access to credit for areas of geographical
+concentration on other prohibited bases — for example,
+age.
+NOTE: It is true that neither the Equal Credit Opportunity Act
+(ECOA) nor the Fair Housing Act (FHAct) specifically uses
+the term “redlining.” However, federal courts as well as
+agencies that have enforcement responsibilities for the FHAct,
+have interpreted it as prohibiting institutions from having
+different marketing or lending practices for certain
+geographic areas, compared to others, where the purpose or
+effect of such differences would be to discriminate on a
+prohibited basis. Similarly, the ECOA would prohibit treating
+applicants for credit differently on the basis of differences in
+the racial or ethnic composition of their respective
+neighborhoods.
+Like other forms of disparate treatment, redlining can be
+proven by overt or comparative evidence. If any written or
+oral policy or statement of the institution (see risk factors R6-
+10 in Part I, above) suggests that the institution links the racial
+or national origin character of an area with any aspect of
+access to or terms of credit, the examiners should refer to the
+guidance in Section B of this Part III, on documenting and
+evaluating overt evidence of discrimination.
+Overt evidence includes not only explicit statements, but
+also any geographical terms used by the institution that
+would, to a reasonable person familiar with the community
+in question, connote a specific racial or national origin
+character. For example, if the principal information
+conveyed by the phrase “north of 110th Street” is that the
+indicated area is principally occupied by Hispanics, then a
+policy of not making credit available “north of 110th Street”
+is overt evidence of potential redlining on the basis of
+national origin.
+Overt evidence is relatively uncommon. Consequently, the
+redlining analysis usually will focus on comparative
+evidence (similar to analyses of possible disparate treatment
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.20 FDIC Consumer Compliance Examination Manual – March 2021
+of individual customers) in which the institution’s treatment
+of areas with contrasting racial or national origin characters
+is compared.
+When the scoping process (including consultation within
+an agency as called for by agency procedures) indicates
+that a redlining analysis should be initiated, examiners
+should complete the following steps of comparative
+analysis:
+1. Identify and delineate any areas within the institution’s
+CRA assessment area and reasonably expected market
+area for residential products that have a racial or
+national origin character;
+2. Determine whether any minority area identified in Step 1
+appears to be excluded, under-served, selectively
+excluded from marketing efforts, or otherwise lessfavorably treated in any way by the institution;
+3. Identify and delineate any areas within the institution’s
+CRA assessment area and reasonably expected market
+area for residential products that are non-minority in
+character and that the institution appears to treat more
+favorably;
+4. Identify the location of any minority areas located just
+outside the institution’s CRA assessment area and market
+area for residential products, such that the institution may
+be purposely avoiding such areas;
+5. Obtain the institution’s explanation for the apparent
+difference in treatment between the areas and evaluate
+whether it is credible and reasonable; and
+6. Obtain and evaluate other information that may support or
+contradict interpreting identified disparities to be the result
+of intentional illegal discrimination.
+These steps are discussed in detail below.
+Using Information Obtained During Scoping
+Although the six tasks listed are presented below as
+examination steps in the order given above, examiners should
+recognize that a different order may be preferable in any given
+examination. For example, the institution’s explanation (Step
+5) for one of the policies or patterns in question may already
+be documented in the CRA materials reviewed (Step 1) and
+the CRA examiners may already have verified it, which may
+be sufficient for purposes of the redlining analysis.
+As another example, as part of the scoping process, the
+examiners may have reviewed an analysis of the geographic
+distribution of the institution’s loan originations with respect
+to the racial and national origin composition of census tracts
+within its CRA assessment or residential market area. Such
+analysis might have documented the existence of significant
+discrepancies between areas, by degree of minority
+concentration, in loans originated (risk factor R1),
+approval/denial rates (risk factor R2), and/or rates of denials
+because of insufficient collateral (risk factor R3). In such a
+situation in which the scoping process has produced a reliable
+factual record, the examiners could begin with Step 5
+(obtaining an explanation) of the redlining analysis below.
+In contrast, when the scoping process only yields partial or
+questionable information, or when the risk factors on which
+the redlining analysis is based on complaints or allegations
+against the institution, Steps 1-4 must be addressed.
+Comparative analysis for redlining
+Step 1. Identify and delineate any areas within the
+institution’s CRA assessment area and reasonably expected
+market area for residential products that are of a racial or
+national origin minority character.
+NOTE: The CRA assessment area can be a convenient unit
+for redlining analysis because information about it typically
+already is in hand. However, the CRA assessment area may
+be too limited. The redlining analysis focuses on the
+institution’s decisions about how much access to credit to
+provide to different geographical areas. The areas for which
+those decisions can best be compared are areas where the
+institution actually marketed and provided credit and where
+it could reasonably be expected to have marketed and
+provided credit. Some of those areas might be beyond or
+otherwise different from the CRA assessment area.
+If there are no areas identifiable for their racial or national
+origin minority character within the institution’s CRA
+assessment area or reasonably expected market area for
+residential products, a redlining analysis is not appropriate.
+(If there is a substantial but dispersed minority population,
+potential disparate treatment can be evaluated by a routine
+comparative file review of applicants.)
+This step may have been substantially completed during
+scoping, but unresolved matters may remain. (For
+example, several community spokespersons may allege that
+the institution is redlining, but disagree in defining the
+area). The examiners should:
+a. Describe as precisely as possible why a specific area is
+recognized in the community (perceptions of residents,
+etc.) and/or is objectively identifiable (based on census
+or other data) as having a particular racial or national
+origin minority character.
+• The most obvious identifier is the predominant race
+or national origin of the residents of the area.
+Examiners should document the percentages of
+racial or national origin minorities residing within
+the census tracts that make up the area. Analyzing
+racial and national origin concentrations in quartiles
+(such as 0 to <=25%, >25% to < = 50%, >50% to <=
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.21
+75%, and >75%) or based on majority concentration
+(0 to <=50%, and >50%) may be helpful. However,
+examiners should bear in mind that it is illegal for
+the institution to consider a prohibited factor in any
+way. For example, an area or neighborhood may
+only have a minority population of 20%, but if the
+area’s concentration appears related to lending
+practices, it would be appropriate to use that area’s
+level of concentration in the analysis. Contacts with
+community groups can be helpful to learn whether
+there are such subtle features of racial or ethnic
+character within a particular neighborhood.
+• Geographical groupings that are convenient for CRA
+may obscure racial patterns. For example, an
+underserved, low-income, predominantly minority
+neighborhood that lies within a larger low-income
+area that primarily consisted of non-minority
+neighborhoods may seem adequately served when
+the entire low-income area is analyzed as a unit.
+However, a racial pattern of underservice to minority
+areas might be revealed if the low-income minority
+neighborhood shared a border with an underserved,
+middle-income, minority area and those two
+minority areas were grouped together for purposes of
+analysis.
+b. Describe how the racial or national origin character
+changes across the suspected redlining area’s
+various boundaries.
+c. Document or estimate the demand for credit, within the
+minority area. This may include the applicable
+demographics of the area, including the percentage of
+homeowners, the median house value, median family
+income, or the number of small businesses, etc. Review
+the institution’s non-originated loan applications from
+the suspected redlined areas. If available, review
+aggregate institution data for loans originated and
+applications received from the suspected redlined areas.
+Community contacts may also be helpful in determining
+the demand for such credit. If the minority area does not
+have a significant amount of demand for such credit, the
+area is not appropriate for a redlining analysis.
+Step 2. Determine whether any minority area identified in
+Step 1 is excluded, under-served, selectively excluded from
+marketing efforts, or otherwise less-favorably treated in
+any way by the institution.
+The examiners should begin with the risk factors identified
+during the scoping process. The unfavorable treatment may
+have been substantially documented during scoping and needs
+only to be finished in this step. If not, this step will verify and
+measure the extent to which HMDA data show the minority
+areas identified in Step 1 to be underserved and/or how the
+institution’s explicit policies treat them less favorably.
+a. Review prior CRA lending test analyses to learn whether
+they have identified any excluded or otherwise underserved areas or other significant geographical disparities in
+the institution’s lending. Determine whether any of those
+are the minority areas identified in Step 1.
+b. Learn from the institution itself whether, as a matter of
+policy, it treats any separate or distinct geographical areas
+within its marketing or service area differently from other
+areas. This may have been done completely or partially
+during scoping analysis related to risk factors R5-R9.
+The differences in treatment can be in marketing,
+products offered, branch operations (including the
+services provided and the hours of operation), appraisal
+practices, application processing, approval requirements,
+pricing, loan conditions, evaluation of collateral, or any
+other policy or practice materially related to access to
+credit. Determine whether any of those less-favored areas
+are the minority areas identified in Step 1.
+c. Obtain from the institution: (i) its reasons for such
+differences in policy, (ii) how the differences are
+implemented, and (iii) any specific conditions that must
+exist in an area for it to receive the particular treatment
+(more favorable or less favorable) that the institution has
+indicated.
+Step 3. Identify and delineate any areas within the
+institution’s CRA assessment area and reasonably
+expected market area for residential products that are
+non-minority in character and that the institution appears
+to treat more favorably.
+To the extent not already completed during scoping:
+a. Document the percentages of control group and of
+racial or national origin minorities residing within the
+census tract(s) that comprise(s) the non-minority area.
+b. Document the nature of the housing stock in the
+area.
+c. Describe, to the extent known, how the institution’s
+practices, policies, or its rate of lending change
+from less-to more-favorable as one leaves the
+minority area at its various boundaries. (Examiners
+should be particularly attentive to instances in
+which the boundaries between favored and
+disfavored areas deviate from boundaries the
+institution would reasonably be expected to follow,
+such as political boundaries or transportation
+barriers.)
+d. Examiners should particularly consider whether, within
+a large area that is composed predominantly of racial or
+national origin minority households, there are enclaves
+that are predominantly non-minority or whether, along
+the area’s borders, there are irregularities where the
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.22 FDIC Consumer Compliance Examination Manual – March 2021
+non- minority group is predominant. As part of the
+overall comparison, examiners should determine
+whether credit access within those small non-minority
+areas differs from credit access in the larger minority
+area.
+Step 4. Identify the location of any minority areas located
+just outside the institution’s CRA assessment area and
+market area for residential products, such that the
+institution may be purposely avoiding such areas.
+Review the analysis from prior CRA examinations of
+whether the assessment area appears to have been influenced
+by prohibited factors. If there are minority areas that the
+institution excluded from the assessment area improperly,
+consider whether they ought to be included in the redlining
+analysis. Analyze the institution’s reasonably expected
+market area in the same manner.
+Step 5. Obtain the institution’s explanation for the
+apparent difference in treatment between the areas and
+evaluate whether it is credible and reasonable.
+This step completes the comparative analysis by soliciting
+from the institution any additional information not yet
+considered by the examiners that might show that there is a
+nondiscriminatory explanation for the apparent disparate
+treatment based on race or ethnicity.
+For each matter that requires explanation, provide the
+institution full information about what differences appear to
+exist in how it treats minority and non-minority areas, and how
+the examiners reached their preliminary conclusions at this
+stage of the analysis.
+a. Evaluate whether the conditionsidentified by the
+institution in Step 2 as justifying more favorable
+treatment pursuant to institutional policy existed
+in minority neighborhoods that did not receive
+the favorable treatment called for by institutional
+policy. If there are minority areas for which
+those conditions existed, ask the institution to
+explain why the areas were treated differently
+despite the similar conditions.
+b. Evaluate whether the conditions identified by the
+institution in Step 2 as justifying less favorable treatment
+pursuant to institutional policy existed in non-minority
+neighborhoods that received favorable treatment
+nevertheless. If there are non-minority areas for which
+those conditions existed, ask the institution to explain
+why those areas were treated differently, despite the
+similar conditions.
+c. Obtain explanations from the institution for any apparent
+differences in treatment observed by the examiners but
+not called for by the institution’s policies:
+• If the institution’s explanation cites any specific
+conditions in the non-minority area(s) to justify more
+favorable treatment, determine whether the minority
+area(s) identified in Step 1 satisfied those conditions.
+If there are minority areas for which those conditions
+existed, ask the institution to explain why the areas
+were treated differently despite the similar conditions.
+• If the institution’s explanation cites any specific
+conditions in the minority area(s) to justify less
+favorable treatment, determine whether the nonminority area(s) had those conditions. If there are
+non-minority areas for which those conditions existed,
+ask the institution to explain why those areas were
+treated differently, despite the similar conditions.
+d. Evaluate the institution’s responses by applying
+appropriate principles selected from the Appendix on
+Evaluating Responses to Evidence of Disparate
+Treatment.
+Step 6. Obtain and evaluate specific types of other
+information that may support or contradict a finding of
+redlining.
+As a legal matter, discriminatory intent can be inferred
+simply from the lack of a legitimate explanation for clearly
+less- favorable treatment of racial or national origin
+minorities. Nevertheless, if the institution’s explanations do
+not adequately account for a documented difference in
+treatment, the examiners should consider additional
+information that might support or contradict the
+interpretation that the difference in treatment constituted
+redlining.
+a. Comparative file review. If there was a comparative
+file review conducted in conjunction with the
+redlining examination, review the results; or, if it is
+necessary and feasible to do so to clarify what appears
+to be discriminatory redlining, compare denied
+applications from within the suspected redlining area
+to approved applications from the contrasting area.
+• Learn whether there were any denials of
+fully qualified applicants from the
+suspected redlining area. If so, that may
+support the view that the institution was
+avoiding doing business in the area.
+• Learn whether the file review identified instances of
+illegal disparate treatment against applicants of the
+same race or national origin as the suspected
+redlining area. If so, that may support the view that
+the institution was avoiding doing business with
+applicants of that group, such as the residents of the
+suspected redlining area. Learn whether any such
+identified victims applied for transactions in the
+suspected redlining area.
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.23
+• If there are instances of either of the above, identify
+denied non-minority residents, if any, of the
+suspected redlining area and review their
+application files to learn whether they appear to
+have been treated in an irregular or less favorable
+way. If so, that may support the view that the
+character of the area rather than of the applicants
+themselves appears to have influenced the credit
+decisions.
+• Review withdrawn and incomplete applications for
+the suspected redlining area, if those can readily be
+identified from the HMDA-LAR, and learn whether
+there are reliable indications that the institution
+discouraged those applicants from applying. If so,
+that may support the view that the institution was
+avoiding conducting business in the area and may
+constitute evidence of a violation of Section
+1002.4(b) of Regulation B. Conversely, if the
+comparisons of individual transactions show that
+the institution treated minority and non-minority
+applicants within and outside the suspected
+redlining area similarly, that tends to contradict the
+conclusion that the institution avoided the areas
+because it had minority residents.
+b. Interviews of third parties. The perspectives of third
+parties will have been taken into account to some degree
+through the review of available materials during scoping.
+Later in the examination, in appropriate circumstances,
+information from third parties may help determine
+whether the institution’s apparent differences in treatment
+of minority and non-minority areas constitute redlining.
+• Identify persons (such as housing or credit counselors,
+home improvement contractors, or real estate and
+mortgage brokers) who may have extensive
+experience dealing with credit applicants from the
+suspected redlined area.
+• After obtaining appropriate authorization and
+guidance from your agency, interview those persons
+to learn of their first-hand experiences related to:
+o oral statements or written indications by an
+institution’s representatives that loan applications
+from a suspected redlined area were discouraged;
+o whether the institution treated applicants from
+the suspected redlining area as called for in its
+own procedures (as the examiners understand
+them) and/or whether it treated them similarly to
+applicants from non-minority areas (as the
+examiners are familiar with those transactions);
+o any unusual delays or irregularities in loan
+processing for transactions in the suspected
+redlining area; and
+o differences in the institution’s pricing, loan
+conditions, property valuation practices, etc., in
+the suspected redlining area compared to
+contrasting areas.
+Also, learn from the third parties the names of any
+consumers they described as having experienced the
+questionable behavior recounted by the third party, and
+consider contacting those consumers.
+If third parties witnessed specific conduct by the institution
+that indicates the institution wanted to avoid business from
+the area or prohibited basis group in question, this would
+tend to support interpreting the difference in treatment as
+intended. Conversely, if third parties report proper treatment
+or positive actions toward such area or prohibited basis
+group, this would tend to contradict the view that the
+institution intended to discriminate.
+c. Marketing. A clear exclusion of the suspected redlining
+area from the institution’s marketing of residential loan
+products supports the view that the institution did not want
+to do business in the area. Marketing decisions are
+affirmative acts to include or exclude areas. Disparities in
+marketing between two areas may reveal that the
+institution prefers one to the other. If sufficiently stark
+and supported by other evidence, a difference in
+marketing to racially different areas could itself be treated
+as a redlining violation of the Fair Housing Act. Even
+below that level of difference, marketing patterns can
+support or contradict the view that disparities in lending
+practices were intentional.
+• Review materials that show how the institution has
+marketed in the suspected redlined area and in nonminority areas. Begin with available CRA materials
+and discuss the issues with CRA examiners, then
+review other materials as appropriate. The materials
+may include, for example, the institution’s guidance
+for the geographical distribution of pre-approved
+solicitations for credit cards or home equity lines of
+credit, advertisements in local media or business or
+telephone directories, business development calls to
+real estate brokers, and calls by telemarketers.
+e. Peer performance. Market share analysis and other
+comparisons to competitors are insufficient by
+themselves to prove that an institution engaged in illegal
+redlining. By the same token, an institution cannot
+justify its own failure to market or lend in an area by
+citing other institutions’ failures to lend or market there.
+However, an institution’s inactivity in an underserved
+area where its acknowledged competitors are active
+would tend to support the interpretation that it intends to
+avoid doing business in the area. Conversely, if it is as
+active as other institutions that would suggest that it 
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.24 FDIC Consumer Compliance Examination Manual – March 2021
+intends to compete for, rather than avoid, business in the
+area.
+• Develop a list of the institution’s competitors.
+• Learn the level of lending in the suspected
+redlining area by competitors. Check any public
+evaluations of similarly situated competitors
+obtained by the CRA examiners as part of
+evaluating the performance context or obtain such
+evaluations independently.
+f. Institution’s record. Request from the institution
+information about its overall record of serving or
+attempting to serve the racial or national origin
+minority group with which the suspected redlining area
+is identified. The record may reveal intent to serve
+that group that tends to contradict the view that the
+institution intends to discriminate against the group.
+NOTE: For any information that supports interpreting
+the situation as illegal discrimination, obtain and
+evaluate an explanation from the institution as called
+for in Part IV. If the institution’s explanation is that the
+disparate results are the consequence of a specific,
+neutral policy or practice that the institution applies
+broadly, such as not making loans on homes below a
+certain value, review the guidance in the Special
+Analyses section of the Appendix under
+Disproportionate Adverse Impact Violations and consult
+agency managers.
+H. Analysis of Potential Discriminatory Marketing
+Practices.
+When scoping identifies significant risk factors (M1-M7)
+related to marketing, examiners should consult their agency’s
+supervisory staff and experts about a possible marketing
+discrimination analysis. If the supervisory staff agrees to
+proceed, the examiners should collect information as follows:
+Step 1. Identify the institution’s marketing initiatives.
+a. Pre-approved solicitations
+• Determine whether the institution sends out preapproved solicitations:
+° For home purchase loans,
+° For home improvement loans, or
+° For refinance loans.
+• Determine how the institution selects recipients for
+such solicitations
+° Learn from the institution its criteria for such
+selections.
+° Review any guidance or other information the
+institution provided credit reporting companies or
+other companies that supply such lists.
+b. Media Usage
+• Determine in which newspapers and broadcast media
+the institution advertises.
+° Identify any racial or national origin identity
+associated with those media.
+° Determine whether those media focus on
+geographical communities of a particular racial or
+national origin character.
+• Learn the institution’s strategies for geographic and
+demographic distribution of advertisements.
+• Obtain and review copies of the institution’s printed
+advertising and promotional materials.
+• Determine what criteria the institution communicates
+to media about what is an attractive customer or an
+attractive area to cultivate business.
+• Determine whether advertising and marketing are the
+same to racial and national origin minority areas as
+compared to non-minority areas.
+c. Self-produced promotional materials
+• Learn how the institution distributes its own
+promotional materials, both methods and geographical
+distribution.
+• Learn what the institution regards as the target
+audience(s) for those materials.
+d. Realtors, brokers, contractors, and other intermediaries
+• Determine whether the institution solicits business
+from specific realtors, brokers, home improvement
+contractors, and other conduits.
+o Learn how the institution decides which
+intermediaries it will solicit.
+o Identify the parties contacted and determine the
+distribution between minority and non-minority
+areas.
+o Obtain and review the types of information the
+institution distributes to intermediaries.
+o Determine how often the institution contacts
+intermediaries.
+o Determine what criteria the institution
+communicates to intermediaries about the type
+of customers it seeks or the nature of the
+geographic areas in which it wishes to do
+business.
+IV. Fair Lending — Fair Lending Laws and Regulations
+FDIC Consumer Compliance Examination Manual – March 2021 IV – 1.25
+e. Telemarketers or predictive dialer programs
+• Learn how the institution identifies which consumers
+to contact, and whether the institution sets any
+parameters on how the list of consumers is compiled.
+Step 2. Determine whether the institution’s activities show a
+significantly lower level of marketing effort toward minority
+areas or toward media or intermediaries that tend to reach
+minority areas.
+Step 3. If there is any such disparity, document the
+institution’s explanation for it.
+For additional guidance, refer to Part C of the Special Analyses
+section in the Appendix.
+I. Credit Scoring.
+If the scoping process results in the selection of a focal point
+that includes a credit or mortgage scored loan product, refer
+to the Considering Automated Underwriting and Credit
+Scoring section of the Appendix.
+If the institution utilizes a credit scoring program which
+scores age for any loan product selected for review in the
+scoping stage, either as the sole underwriting determinant or
+only as a guide to making loan decisions, refer to Part E of
+the Considering Automated Underwriting and Credit
+Scoring section of the Appendix.
+J. Disparate Impact Issues.
+These procedures have thus far focused primarily on
+examining comparative evidence for possible unlawful
+disparate treatment. Disparate impact has been described
+briefly in the Introduction. Whenever an examiner
+believes that a particular policy or practice of an institution
+appears to have a disparate impact on a prohibited basis,
+the examiner should refer to Part A of the Special Analyses
+section of the Appendix or consult with agency supervisory
+staff for further guidance.
+Part IV — Obtaining and Evaluating Responses
+From the Institution and Concluding the
+Examination
+Step 1. Present to the institution’s management for
+explanation:
+a. Any overt evidence of disparate treatment on a prohibited
+basis.
+b. All instances of apparent disparate treatment (e.g.,
+overlaps) in either the underwriting of loans or in loan
+prices, terms, or conditions.
+c. All instances of apparent disparate treatment in the form
+of discriminatory steering, redlining, or marketing
+policies or practices.
+d. All instances where a denied prohibited basis applicant
+was not afforded the same level of assistance or the same
+benefit of discretion as an approved control group
+applicant who was no better qualified with regard to the
+reason for denial.
+e. All instances where a prohibited basis applicant received
+conspicuously less favorable treatment by the institution
+than was customary from the institution or was required
+by the institution’s policy.
+f. Any statistically significant average difference in either
+the frequency or amount of pricing disparities between
+control group and prohibited basis group applicants.
+g. Any evidence of neutral policies, procedures or practices
+that appear to have a disparate impact or effect on a
+prohibited basis.
+Explain that unless there are legitimate, nondiscriminatory
+explanations (or in the case of disparate impact, a compelling
+business justification) for each of the preliminary findings of
+discrimination identified in this Part, the agency could
+conclude that the institution is in violation of the applicable
+fair lending laws.
+Step 2. Document all responses that have been provided
+by the institution, not just its “best” or “final” response.
+Document each discussion with dates, names, titles,
+questions, responses, any information that supports or
+undercuts the institution’s credibility, and any other
+information that bears on the issues raised in the
+discussion(s).
+Step 3. Evaluate whether the responses are consistent with
+previous statements, information obtained from file
+review, documents, reasonable banking practices, and
+other sources, and satisfy common-sense standards of logic
+and credibility.
+a. Do not speculate or assume that the institution’s
+decision- maker had specific intentions or
+considerations in mind when he or she took the actions
+being evaluated. Do not, for example, conclude that
+because you have noticed a legitimate,
+nondiscriminatory reason for a denial (such as an
+applicant’s credit weakness), that no discrimination
+occurred unless it is clear that, at the time of the denial,
+the institution actually based the denial on that reason.
+b. Perform follow-up file reviews and comparative
+analyses, as necessary, to determine the accuracy and
+credibility of the institution’s explanations.
+c. Refer to Evaluating Responses to Evidence of
+Disparate Treatment in the Appendix for guidance as
+to common types of responses.
+d. Refer to the Disproportionate Adverse Impact
+IV. Fair Lending — Fair Lending Laws and Regulations
+IV – 1.26 FDIC Consumer Compliance Examination Manual – March 2021
+Violations portion of the Special Analyses section of
+the Appendix for guidance on evaluating the
+institution’s responses to apparent disparate impact.
+Step 4. If, after completing Steps 1–3 above, you conclude
+that the institution has failed to adequately demonstrate
+that one or more apparent violations had a legitimate
+nondiscriminatory basis or were otherwise lawful, prepare
+a documented list or discussion of violations, or a draft
+examination report, as prescribed by agency directives.
+Step 5. Consult with agency supervisory staff regarding
+whether (a) any violations should be referred to the
+Departments of Justice or Housing and Urban
+Development and (b) enforcement action should be
+undertaken by your agency.
